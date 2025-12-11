@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "869a3707-ee42-4f59-a1c2-7620c81d2520",
+		"name": "Sprint 4 parte 2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50138861",
+		"_collection_link": "https://diegochavesqroomdp-7608425.postman.co/workspace/Diego-Chaves's-Workspace~5630693b-396b-4d49-88de-fd807ff60910/collection/50138861-869a3707-ee42-4f59-a1c2-7620c81d2520?action=share&source=collection_link&creator=50138861"
+	},
+	"item": [
+		{
+			"name": "INICIAL",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

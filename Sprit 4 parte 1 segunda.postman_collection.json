@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "8632b9da-6807-4f41-9be0-be146c2ff078",
+		"name": "Sprit 4 parte 1 segunda",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50138861",
+		"_collection_link": "https://diegochavesqroomdp-7608425.postman.co/workspace/Diego-Chaves's-Workspace~5630693b-396b-4d49-88de-fd807ff60910/collection/50138861-8632b9da-6807-4f41-9be0-be146c2ff078?action=share&source=collection_link&creator=50138861"
+	},
+	"item": [
+		{
+			"name": "KIT INCIAL",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "KIT DE 31 PRODUCTOS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "KIT nombre inv",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
