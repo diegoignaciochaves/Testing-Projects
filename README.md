@@ -1,2 +1,4 @@
 # Testing-Projects
 Proyectos de prueba donde utiliza Postman para realizar pruebas del back-end de la aplicacion Urban Grocers como parte de mis practicas en el Bootcamp de TripleTen. Se hicerion pruebas de API en Postman para verificar la respuesta del Back-End según los requisitos de la aplicación. Diseñe pruebas acorde a esto, tanto positivas como negativas, verificando entre otras cosas, valores limites, arrays, valores de los campos y funcionamiento de los campos. Todos los errores fueron reportados en Jira.
+
+Dentro de las pruebas realizadas en busqueda de bugs, verifique el funcionamiento correcto de los valores requeridos y los valores limites, con estas pruebas se puede corregir bugs donde la aplicacion daba positivos para valores que no coincidian con los requerimientos del equipo de desarrollo.
